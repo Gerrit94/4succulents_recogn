@@ -1,4 +1,5 @@
-
+https://download.pytorch.org/whl/
+https://download.pytorch.org/whl/
 fastai==2.5.4
 voila
 ipywidgets
